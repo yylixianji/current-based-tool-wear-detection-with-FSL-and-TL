@@ -14,6 +14,7 @@
 This project compares the normal and abnormal tool motor currents from PLC of CNC through different Few-Shot Learning (FSL) and Transfer Learning (TL) algorithms. Immediately after, it compares the performance of different algorithms. During this period, it requires to tune the hyperparameters to ensure the superior performance of each algorithm. Finally, the best classification model will be found.
 
 # Algorithms
+gh repo clone sicara/easy-few-shot-learning
 
 ## Algorithm basis
 
