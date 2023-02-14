@@ -1,0 +1,10 @@
+{
+    "class_names": [
+        "NY",
+        "AY"
+    ],
+    "class_roots": [
+        "./data/current spe/NY",
+        "./data/current spe/AY"
+    ]
+}

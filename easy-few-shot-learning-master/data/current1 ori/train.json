@@ -1,0 +1,10 @@
+{
+    "class_names": [
+        "N",
+        "L"
+    ],
+    "class_roots": [
+        "./data/current1 ori/train/N",
+        "./data/current1 ori/train/L"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "class_names": [
+        "N",
+        "L"
+    ],
+    "class_roots": [
+        ".//data//current xys//train//N",
+        ".//data//current xys//train//L"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "class_names": [
+        "NX",
+        "AX"
+    ],
+    "class_roots": [
+        "./data/current spe/NX",
+        "./data/current spe/AX"
+    ]
+}

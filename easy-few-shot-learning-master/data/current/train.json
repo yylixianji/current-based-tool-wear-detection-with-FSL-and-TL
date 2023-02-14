@@ -1,0 +1,15 @@
+{
+    "class_names": [
+        "health",
+        "1edge damaged",
+        "2edges damaged",
+        "3edges damaged"
+
+    ],
+    "class_roots": [
+        "./data/current/health/train",
+        "./data/current/1edge damaged/train",
+        "./data/current/2edges damaged/train",
+        "./data/current/3edges damaged/train"
+    ]
+}
