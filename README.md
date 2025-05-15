@@ -149,4 +149,5 @@ Tab 5.3 The performance of Transfer learning model with SMOTE technique
 
 ## Contributors
 - Dr.Mustafa Demetgül – Academic Supervisor
+- yylixianji-Developer
 
