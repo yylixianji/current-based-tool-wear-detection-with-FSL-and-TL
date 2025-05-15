@@ -146,3 +146,7 @@ Tab 5.3 The performance of Transfer learning model with SMOTE technique
 |             | Binary classification model (Misalignment data) | D12 tool model (Experiment data) | D16 tool model (Experiment data) | D20 tool model (Experiment data) |
 |-------------|-------------------------------------------------|----------------------------------|----------------------------------|----------------------------------|
 | Performance | 99%                                             | 91.2%                            | 93.2%                            | 93.9%                            |
+
+## Contributors
+- Dr.Mustafa Demetgül – Academic Supervisor
+
